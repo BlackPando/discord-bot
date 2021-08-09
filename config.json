@@ -1,0 +1,26 @@
+{
+    "token": "NDYyMjQ2MDQxNDUwOTcxMTQ3.WzYyLA.qyShwPxm-3yNeJSBwmX30DcUMF8",
+    "reactionRole": {
+        "859382093390020608": {
+            "emojis": [{
+                "name": "✅",
+                "roles": "551078217004613642"
+            }]
+        },
+        "859383530709319692": {
+            "removable": true,
+            "emojis": [{
+                "name": "📕",
+                "roles": ["858806966796550144"]
+            }, 
+            {
+                "name": "📘",
+                "roles": ["858807030714335232"]
+            },
+            {
+                "name": "📗",
+                "roles": "858807078071435274"
+            }]
+        }
+    }
+}
